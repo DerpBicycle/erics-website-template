@@ -1,6 +1,6 @@
 # Eric's Website Template
 
-A modern, production-ready Next.js template with TypeScript, Tailwind CSS, and best practices inspired by the T3 stack.
+A modern, production-ready Next.js template with TypeScript, Tailwind CSS, and best practices.
 
 ## 🚀 Tech Stack
 
