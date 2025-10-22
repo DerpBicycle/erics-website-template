@@ -2,8 +2,6 @@
 
 A modern, production-ready Next.js template with TypeScript, Tailwind CSS, and best practices inspired by the T3 stack.
 
-Created by Eric Diepeveen for quick-starting web projects with a clean, organized structure.
-
 ## 🚀 Tech Stack
 
 - **[Next.js 16](https://nextjs.org/)** - React framework with App Router and Turbopack
@@ -146,24 +144,6 @@ This is content with **MDX**.
 <MyComponent />
 ```
 
-## 🚢 Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub/GitLab/Bitbucket
-2. Import your repository on [Vercel](https://vercel.com)
-3. Vercel will automatically detect Next.js and configure the build
-4. Add your environment variables in the Vercel dashboard
-5. Deploy!
-
-### Other Platforms
-
-This template works with any platform that supports Next.js:
-
-- **Netlify**: Use the `@netlify/plugin-nextjs` plugin
-- **AWS Amplify**: Follow the Next.js deployment guide
-- **Docker**: Use the standalone output mode
-- **Self-hosted**: Run `npm run build && npm run start`
 
 ## 🔧 Customization
 
@@ -200,11 +180,6 @@ Path aliases are configured in `tsconfig.json`:
 }
 ```
 
-## 🤝 Contributing
-
-This is a template repository. Feel free to use it as a starting point for your projects!
-
-## 📄 License
 
 This template is open source and available under the [MIT License](LICENSE).
 
