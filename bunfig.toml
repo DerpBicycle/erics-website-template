@@ -1,0 +1,6 @@
+# Bun configuration
+# See: https://bun.sh/docs/runtime/bunfig
+
+[install]
+# Use exact versions by default
+exact = true
